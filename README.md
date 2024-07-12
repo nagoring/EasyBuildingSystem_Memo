@@ -19,3 +19,5 @@
 5. Show Building Menu関数の処理
    - `UI_EBS_HUD > Event Graph` で実行される。
    - メニューの可視化、プレイヤーコントローラーの入力制御、マウスカーソルの表示などが行われる。
+
+EBSは「Easy Building System」の略？
