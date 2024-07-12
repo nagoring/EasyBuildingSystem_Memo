@@ -20,4 +20,7 @@
    - `UI_EBS_HUD > Event Graph` で実行される。
    - メニューの可視化、プレイヤーコントローラーの入力制御、マウスカーソルの表示などが行われる。
 
-EBSは「Easy Building System」の略？
+EBSは何のの略？
+ - Easy Building System
+ - Event-Based System：イベント駆動型システム。イベントをトリガーとしてアクションを実行するシステム。
+ - Entity Building System：ゲームやシミュレーションで使われるエンティティ（オブジェクト）の構築システム。
